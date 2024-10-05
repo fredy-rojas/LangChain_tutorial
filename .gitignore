@@ -1,0 +1,3 @@
+# Script use for (Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | py - in PowerShell
+#  To install Poetry in an Isolated pytorn virtual environment
+install.python-poetry.org.txt
