@@ -52,6 +52,7 @@ print("Start chatting with the AI. Type 'exit' to quit.\n\n")
 while True:
     human_input = input("\nUser: ")
     if human_input.lower() == "exit":
+        # print(human_input.lower())
         print("\n\n================= END CHAT =================\n\n")
         break
 
