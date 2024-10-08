@@ -8,7 +8,7 @@ from langchain_openai import ChatOpenAI
 load_dotenv()
 
 # Create a ChatOpenAI model
-model = ChatOpenAI(model="gpt-4o")
+model = ChatOpenAI(model="gpt-4o-2024-08-06")
 
 # Define prompt templates
 prompt_template = ChatPromptTemplate.from_messages(
