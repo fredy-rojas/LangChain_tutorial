@@ -1,3 +1,9 @@
+# Ignore vector machine
+4_rag/db/
+
+# Ingone books
+4_rag/books/
+
 # secrets keys
 .env
 
